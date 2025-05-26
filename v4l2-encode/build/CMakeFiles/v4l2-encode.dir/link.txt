@@ -1,0 +1,1 @@
+/usr/bin/cc -g "CMakeFiles/v4l2-encode.dir/src/v4l2-encode.c.o" -o v4l2-encode   -L/home/book/workdir/v4l2_prj/v4l2-encode/lib  -Wl,-rpath,/home/book/workdir/v4l2_prj/v4l2-encode/lib -lx264 

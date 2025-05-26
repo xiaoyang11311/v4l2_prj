@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/v4l2_test.dir/src/v4l2_MJPG_to_RGB.c.o -o v4l2_test  /usr/lib/x86_64-linux-gnu/libjpeg.so 

@@ -1,0 +1,15 @@
+[
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I/home/book/workdir/v4l2_prj/v4l2-encode/include",
+            "-g",
+            "-o",
+            "CMakeFiles/v4l2-encode.dir/src/v4l2-encode.c.o",
+            "../src/v4l2-encode.c"
+        ],
+        "directory": "/home/book/workdir/v4l2_prj/v4l2-encode/build",
+        "file": "../src/v4l2-encode.c"
+    }
+]

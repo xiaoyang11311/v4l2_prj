@@ -1,0 +1,3 @@
+/home/book/workdir/v4l2_prj/v4l2-encode/build/CMakeFiles/v4l2-encode.dir
+/home/book/workdir/v4l2_prj/v4l2-encode/build/CMakeFiles/edit_cache.dir
+/home/book/workdir/v4l2_prj/v4l2-encode/build/CMakeFiles/rebuild_cache.dir

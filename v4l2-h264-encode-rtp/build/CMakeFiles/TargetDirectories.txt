@@ -1,0 +1,3 @@
+/home/book/workdir/project/v4l2_prj/v4l2-h264-encode-rtp/build/CMakeFiles/v4l2-h264-encode-rtp.dir
+/home/book/workdir/project/v4l2_prj/v4l2-h264-encode-rtp/build/CMakeFiles/edit_cache.dir
+/home/book/workdir/project/v4l2_prj/v4l2-h264-encode-rtp/build/CMakeFiles/rebuild_cache.dir
